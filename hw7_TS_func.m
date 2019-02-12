@@ -1,6 +1,5 @@
- % "I discussed this homework problem with Tim Gong. 
-% I certify that the assignment I am submitting represents my own work. Tien Li Shen"
-% Tien-Li Shen, 03/25/2018, HW5, ID:30930512
+
+% Tien-Li Shen, 03/25/2018,
  
 function [heat_flux, thickness, cost, time, savings_per_day] = hw7_TS_func(Type, T_O, DHL)
 %initialize and determine the thermal conductivity
